@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "@types/react": "~18.0.27",
+    "expo": "^48.0.17",
+    "react-dom": "^18.2.0",
+    "react-native-web": "~0.18.10"
+  },
+  "devDependencies": {
+    "@types/node": "^20.2.3",
+    "expo-cli": "^4.3.0",
+    "tsx": "^3.12.7",
+    "typescript": "^5.0.4"
+  },
+  "name": "nlw-12-spacetime-ignite",
+  "description": "<p align=\"center\">\r   <img alt=\"Rocketseat Education\" src=\"https://avatars.githubusercontent.com/u/69590972?s=200&v=4\" width=\"100px\" />\r </p>",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "tsx src/server.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
